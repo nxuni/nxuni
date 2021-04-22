@@ -1,4 +1,4 @@
-# :octocat: Hello World! 👋  
+# :octocat: Hello, World! 👋  
 This is **NXÜNI** (Eagle in Hñähñu - Otomi language).
 Well, my official name is Carlos Alberto Benitez Martin ;-)
 
